@@ -15,7 +15,7 @@ like ROC curves,AUC, precision, recall,F1 score and MSE,MAE.
 
 ## CONCLUSION:
 To answer the main question "Are video games no fun now a days?"
-- Mostly yes, because the forecast shows the decline towards the upcoming years.It might be becuase of the platform,genre.
+- Mostly yes, because the forecast shows the decline towards the upcoming years.It might be because of the platform,genre.
 - We observe that even though 'Action' is ranked No. 1 in the highest sales, lowest is 'Platform'
 - But the average of the global sales are highest in 'Platform' which means there was a time where 'Action' has shown its peak sales 
 i-e; in 2009 and then it kept declining over years.

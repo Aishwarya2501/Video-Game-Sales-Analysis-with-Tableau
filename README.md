@@ -20,7 +20,7 @@ To answer the main question "Are video games no fun now a days?"
 - But the average of the global sales are highest in 'Platform' which means there was a time where 'Action' has shown its peak sales 
 i-e; in 2009 and then it kept declining over years.
 - For overall sales, year of sales is peak in 2008.
-- Global sales kept decresing since the and it has fallen to 0.1 in 2020’s. [started decreasing from 2013)
+- Global sales kept decresing since the and it has fallen to 0.1 in 2020’s. (started decreasing from 2013)
 - So when we forecast ‘Europe’ and ‘Japan’ sales, forecast shows sales might decrease over time.
 
 #### THANKS TO TABLEAU WHICH HELP US ANALYZE WITH A CRYSTAL CLEAR VISUALIZATION AND GIVE QUICKER INSIGHTS ACCURATELY. 
